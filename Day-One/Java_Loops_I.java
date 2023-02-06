@@ -1,9 +1,9 @@
 /*
-Objective
-In this challenge, we're going to use loops to help us do some simple math.
+    Objective
+    In this challenge, we're going to use loops to help us do some simple math.
 
-Task
-Given an integer,10, print its first 10 multiples. Each multiple N*1(where (I < i <= 10) should be printed on a new line in the form: N x i = result.
+    Task : 
+    Given an integer,10, print its first 10 multiples. Each multiple N*1(where (I < i <= 10) should be printed on a new line in the form: N x i = result.
 
 Input Format
 
